@@ -1,7 +1,7 @@
 ## POLITECNICO GRANCOLOMBIANO
 [![POLI](https://campusvirtual.poligran.edu.co/img/logopoli_w.png "POLI")](http://https://campusvirtual.poligran.edu.co/img/logopoli_w.png "POLI")
 
-####Integrantes:
+##Integrantes:
 
 - Cristhian Forero Bello Cod. 1821027119
 - Edwin Manuel Quevedo Cardozo Cod. 19211022112

@@ -5,7 +5,7 @@
 
 - Cristhian Forero Bello Cod. 1821027119
 - Edwin Manuel Quevedo Cardozo Cod. 19211022112
-- Gina Marcela Díaz Pinzón Cod. 1821026011
+- Gina Marcela Díaz Pinzón Cod. 1821026011.
 - Angie Daniela Pulido Achagua Cod. 1911022440
 
 Utilizando Framework Angular:
